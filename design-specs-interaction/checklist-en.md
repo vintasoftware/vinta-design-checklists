@@ -9,9 +9,9 @@
 * [ ] Focused 
 * [ ] Animations
 * [ ] Transitions
-    * E.g. You should specify whenever there are transitions between elements, based on user interaction. If necessary, link an animation library with the behavior you are envisoning.
+    * You should specify whenever there are transitions between elements, based on user interaction. If necessary, link an animation library with the behavior you are envisoning.
 * [ ] Loading States
-    * E.g. If the UI is taking too long to render or is waiting for a slow server action to move forward, a loading state should be considerate to inform the user that the system has not froze.
+    * If the UI is taking too long to render or is waiting for a slow server action to move forward, a loading state should be considerate to inform the user that the system has not froze.
 
 ## Interaction Type
 #### Check if the current interaction type is the best suitable for the element in case.     * E.g. E.g. Sometimes a hover can be more convenient than a click to open.
@@ -30,24 +30,24 @@ Useful for rearranging content quickly
 * [ ] Vertical Scroll 
 
 * [ ] Horizontal Scroll (preferable for mobile)
-    * E.g. Good for grouping content into horizontal lists and reducing vertical space. The optimal interaction for these lists and caroussels is different on mobile (swipe) and desktop (click). Make sure you have the necessary visual affordances for each one (E.g. arrows on desktop, dots on mobile).
+    * Good for grouping content into horizontal lists and reducing vertical space. The optimal interaction for these lists and caroussels is different on mobile (swipe) and desktop (click). Make sure you have the necessary visual affordances for each one (E.g. arrows on desktop, dots on mobile).
 
 * [ ] Swipe (recommended only for mobile)
 
 ## Placeholders
 
 * [ ] Whenever a section or element that is supposed to be filled with information lacks any data at all, it's important to predict that and create a placeholder case.
-    * E.g. Beware: Placeholders should not replace labels, only give user further understanding about that field.
+    * Beware: Placeholders should not replace labels, only give user further understanding about that field.
 
 ## Error states & Warnings
 #### There are a lot of possible error states & matching warnings for unexpected or prohibited behaviors. Below are the most common ones:
 
 * [ ] Wrong format data
-E.g. Date fields that can't be in the future, Text that can't contain symbols, etc.
+    * E.g. Date fields that can't be in the future, Text that can't contain symbols, etc.
 * [ ] Blank required fields
 * [ ] Wrongly user uploaded data
-E.g. Wrong file type, File too large, etc.
+    * E.g. Wrong file type, File too large, etc.
 * [ ] Data loading issues
-E.g. Internet connection problems, Problems on the server side, etc.
+    * E.g. Internet connection problems, Problems on the server side, etc.
 * [ ] Proper Feedback 
-    * E.g. Always make clear what is the problem, and give the user instructions on how to solve it. If it's a forgotten password, provide a recovery link. If it's a server problem, inform a expected solving time for the user to wait or a way to contact the support team.
+    * Always make clear what is the problem, and give the user instructions on how to solve it. If it's a forgotten password, provide a recovery link. If it's a server problem, inform a expected solving time for the user to wait or a way to contact the support team.
