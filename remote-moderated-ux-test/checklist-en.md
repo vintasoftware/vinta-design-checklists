@@ -2,13 +2,13 @@
 
 ## 1. Build your prototype
 * [ ] Pick one device or viewport to build the prototype on. 
-    * E.g. Consider the context your users are likely to be in and which device they use more often. User behavior data can help you in this decision.
+    * Consider the context your users are likely to be in and which device they use more often. User behavior data can help you in this decision.
 * [ ] Keep the prototype scope as narrow as possible.
-    * E.g.  Focus on the main questions you want to answer and don’t build too many different flows into it. 
+    * Focus on the main questions you want to answer and don’t build too many different flows into it. 
 * [ ] Choose the prototyping and testing tools that are most suited for your experiment.
-    * E.g. Lookback is our tool of choice for testing, and here is a very rich list of user research tools.
+    * Lookback is our tool of choice for testing, and here is a very rich list of user research tools.
 * [ ] Write a script to your test.
-    * E.g. Outline the task instructions and some intro and closing notes to guide you. Avoid using technical language and referencing other parts of the product that your participants may not be familiar with. 
+    * Outline the task instructions and some intro and closing notes to guide you. Avoid using technical language and referencing other parts of the product that your participants may not be familiar with. 
 
 ## 2. Test your prototype for glitches
 * [ ] Run a remote version of this in-house usability test with one or two people, to make sure everything is working properly.
@@ -19,16 +19,16 @@
 ## 3. Source and schedule participants
 #### This can be a task for the designer or other stakeholder (product owner, CEO, CMO), depending on the organizational structure you’re dealing with. Participants can be current users or part of the product’s target demographic.
 * [ ] When sourcing participants, try to stay as close as possible to your real user base. 
-    * E.g. Watch for biases that might skew your test results. I.e. you don’t want to have only people who are young and tech-savvy if your user base is mainly composed of boomers. 
+    * Watch for biases that might skew your test results. I.e. you don’t want to have only people who are young and tech-savvy if your user base is mainly composed of boomers. 
 * [ ] Source six or seven participants.
-    * E.g. Nielsen’s magical number is five, but it’s nice to have a few extra people, in case someone is unable to participate.
+    * Nielsen’s magical number is five, but it’s nice to have a few extra people, in case someone is unable to participate.
 * [ ] Make sure all your participants will be able to do the test on the device you’ve designed it for, and are familiar with it.
 * [ ] Make clear to participants that they will not be the ones under scrutiny. 
-    * E.g. What is being tested is your product, and their honest feedback is the main goal of the test session.
+    * What is being tested is your product, and their honest feedback is the main goal of the test session.
 * [ ] Schedule all your participants on the same day, with a 15 minute interval between them.
 * [ ] Take note of every participant’s name and email.
 * [ ] Make sure other stakeholders (project manager, product owner, tech lead) are also available to follow the usability test with you, and schedule them in.
-    * E.g. The impact of getting instant feedback from real people on a product still under development is very powerful, and can help the entire team make better decisions about it.
+    * The impact of getting instant feedback from real people on a product still under development is very powerful, and can help the entire team make better decisions about it.
 
 ## 4. Run the test
 * [ ] Double-check your internet connection, camera and microphone a few minutes before. 
@@ -40,14 +40,14 @@
 * [ ] Don’t interrupt your participant mid-task. If they’re going through the wrong flow, just observe their actions and take notes.
 * [ ] Don’t explain the interface mid-task, unless a participant asks you to.
 * [ ] If technical difficulties arise, keep calm. Reset the call, contact participants via your plan B, and restart it.
-    * E.g. Feel free to run faster through the prototype and skip some steps in the second go-round.
+    * Feel free to run faster through the prototype and skip some steps in the second go-round.
 * [ ] In the end, if you feel that the participant is comfortable, feel free to ask some questions about their experience and get further insights. 
 * [ ] Thank the participant for their help.
 
 ## 5. Follow-up
 * [ ] Use your real-time notes to identify points of improvement in the UI. 
-    * E.g. As a rule of thumb, if three people had difficulties in the same point of the test, the UI needs to be fixed. 
+    * As a rule of thumb, if three people had difficulties in the same point of the test, the UI needs to be fixed. 
 * [ ] Present your discoveries to the development team, and to stakeholders that weren’t present during the process.
-    * E.g.  Your insights must inform further decisions about the product. 
+    *  Your insights must inform further decisions about the product. 
 * [ ] Track any UI adjustments as new tasks, and prioritize them on your sprint with the Project Manager.
 * [ ] After the feature is developed, send a follow-up email to your test participants, showing them how the product has changed or improved based on their insights.
