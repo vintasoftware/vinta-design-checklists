@@ -4,17 +4,17 @@
 
 ## Before the sync
 * [ ] Make sure to know who is the decision maker. 
-    * E.g. In most teams, the tech lead knows more about feasibility constraints than the project manager. However, you might need input from more than one person before reaching the final solution.
+    * In most teams, the tech lead knows more about feasibility constraints than the project manager. However, you might need input from more than one person before reaching the final solution.
 * [ ] Decide if any other developer should participate
-    * E.g. That depends on the nature of the feature you’re working on (front-end, data structure, system architecture, etc). A particular developer might be more knowledgeable in that area, and provide good insights. Include that person in the sync. 
+    * That depends on the nature of the feature you’re working on (front-end, data structure, system architecture, etc). A particular developer might be more knowledgeable in that area, and provide good insights. Include that person in the sync. 
 * [ ] If neither the tech lead or the project manager are available, get an OK from leadership and run the validation with the expert dev. 
-    * E.g. Document the outcomes and then validate with a decision-maker later. 
+    * Document the outcomes and then validate with a decision-maker later. 
 * [ ] Have the current state of your work ready to be presented.
-    * E.g. It can be wireframes, a user journey or even early sketches on paper. But make sure to only show what’s relevant to the discussion at hand.
+    * It can be wireframes, a user journey or even early sketches on paper. But make sure to only show what’s relevant to the discussion at hand.
 * [ ] Organize your meeting notes.
-    * E.g. You should enter the sync knowing exactly which topics you need to discuss about the solution you’re working on.
+    * You should enter the sync knowing exactly which topics you need to discuss about the solution you’re working on.
 * [ ] Brief the tech lead on the sync’s subject.
-    * E.g. Send the meeting notes along with the calendar invite so they can prepare, do some research on the subject, and speed up the discussion.
+    * Send the meeting notes along with the calendar invite so they can prepare, do some research on the subject, and speed up the discussion.
 
 ## Running the sync
 * [ ] Understand the feature’s complexity
@@ -29,21 +29,21 @@
 
 * [ ] Validate components
 *    [ ] Which component set or framework is available for the feature in question?
-      * E.g. Not every part of the product is running state-of-the-art structure and frameworks. Sometimes you need to work with a limited set of components or interactions, to avoid a major refactoring.
+      * Not every part of the product is running state-of-the-art structure and frameworks. Sometimes you need to work with a limited set of components or interactions, to avoid a major refactoring.
 *    [ ] Do we need to create new components/pages for this feature? 
 If so, make sure that the new component works with the current page structure.
 *    [ ] Can a similar solution be achieved with pre-existing components?
-      * E.g. If the compromise won’t damage the experience and can drastically reduce development effort, it’s worth adjusting the design. 
+      * If the compromise won’t damage the experience and can drastically reduce development effort, it’s worth adjusting the design. 
 *    [ ] Is there any lib or ready-made asset that helps with the job?
-      * E.g. If so, try to incorporate it into the solution, or adapt the design to fit the existing asset.
+      * If so, try to incorporate it into the solution, or adapt the design to fit the existing asset.
 
 * [ ] Consider performance
 *    [ ] How much this solution increases the code responsiveness complexity?
-      * E.g. Will there be additional media queries or custom layouts for different breakpoints? Analyze the effort/impact ratio of that solution, to see if the UX gain will be worth the extra complexity for development. 
+      * Will there be additional media queries or custom layouts for different breakpoints? Analyze the effort/impact ratio of that solution, to see if the UX gain will be worth the extra complexity for development. 
 
 *    [ ] Will this solution have an impact on performance?
-      * E.g. Animations, data requests on front-end and heavy use of images may cripple performance on web applications. If the impact is significant, try to work on another alternative. 
+      * Animations, data requests on front-end and heavy use of images may cripple performance on web applications. If the impact is significant, try to work on another alternative. 
 
 ## Sync outcomes
 *    [ ] Take notes on all the aspects of your solution that will need adjustments. 
-      * E.g. If a solution was not reached during the sync, both the designer and the developer should make an effort and research alternatives, and sync again as soon as possible, so the sprint is not harmed.
+      * If a solution was not reached during the sync, both the designer and the developer should make an effort and research alternatives, and sync again as soon as possible, so the sprint is not harmed.
