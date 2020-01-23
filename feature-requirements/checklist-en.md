@@ -11,7 +11,7 @@
 * [ ] Which metrics will define this feature’s success? (current/expected)
 * [ ] Which metrics can we look at to understand this feature’s outcome once it’s live?
 * [ ] What basic behavior is the PO envisioning for this?
-    * E.g. only ask this one if you have a straight answer to all the previous questions!
+    * Only ask this one if you have a straight answer to all the previous questions!
 
 ## Understanding user feedback 
 #### Try to answer the following questions whenever a feature or improvement based on user feedback comes up as a design assignment. User feedback is very important, but it needs to be treated thoughtfully. The answers to these questions will give the team a clearer picture of how well defined the problem is, help prioritize the feature, and guide the next phases (do more research, or move to the design solution).
@@ -21,7 +21,7 @@
 * [ ] Is this use case common among our user base or specific to one person or context?
 * [ ] How critical is the problem? 
 * [ ] Is it stopping users from performing an important action? 
-    * E.g. Is it slowing down users while performing a task?
-    * E.g. Is it inducing users to error?Is it driving users out of the product?
-    * E.g. Is it impacting users perception of the product as a whole?
-    * E.g. Is the reported pain point enough to understand the problem and propose a solution?
+    * Is it slowing down users while performing a task?
+    * Is it inducing users to error?Is it driving users out of the product?
+    * Is it impacting users perception of the product as a whole?
+    * Is the reported pain point enough to understand the problem and propose a solution?
