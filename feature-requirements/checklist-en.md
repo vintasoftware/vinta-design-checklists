@@ -23,5 +23,5 @@
 * [ ] Is it stopping users from performing an important action? 
     * Is it slowing down users while performing a task?
     *  Is it inducing users to error? Is it driving users out of the product?
-    * Is it impacting users' perception of the product as a whole
+    * Is it impacting users' perception of the product as a whole?
     * Is the reported pain point enough to understand the problem and propose a solution?
