@@ -7,31 +7,31 @@
 
 ## UI Consistency
 * [ ] Color Palette
-    * E.g. Color usage must be consistent with your specs and with semantics described on the style guide.
+    * Color usage must be consistent with your specs and with semantics described on the style guide.
 * [ ] Iconography
-    * E.g. The icons being used must be the ones provided by the designer, and their size and placement must be according to design specs.
+    * The icons being used must be the ones provided by the designer, and their size and placement must be according to design specs.
 * [ ] Typography
-    * E.g. Check if font-size, line-height, font-spacing and headings are consistent with your design.
+    * Check if font-size, line-height, font-spacing and headings are consistent with your design.
 * [ ] Copy
-    * E.g. Search for typos, overflowed texts, weird line breaks, etc.
+    * Search for typos, overflowed texts, weird line breaks, etc.
 * [ ] Graphics and Images
-    * E.g. Check if photos and illustrations are behaving well (not distorted, cropped or scaled different than the specified behavior). Resize your browser windows to see how they are behaving. 
+    * Check if photos and illustrations are behaving well (not distorted, cropped or scaled different than the specified behavior). Resize your browser windows to see how they are behaving. 
 
 ## Behavior consistency
 * [ ] Interactive Elements States (Hover, Active, Disabled, etc.)
-    * E.g. Stress-test all the interactions to ensure the developer implemented all states of buttons and links.
+    * Stress-test all the interactions to ensure the developer implemented all states of buttons and links.
 * [ ] Animations
-    * E.g. Those can be tricky, since animations are often tested briefly before handoff and communication noise can create a gap between mockups and the final code.
+    * Those can be tricky, since animations are often tested briefly before handoff and communication noise can create a gap between mockups and the final code.
 * [ ] Interaction Type (Click, Drag, Swipe, etc.)
-    * E.g. Test the clicks, drags and swipes in the UI. Some might seem to be good solutions on the design phase, but can prove to be annoying or just bad on the final product. Stress tests here are always recommended.
+    * Test the clicks, drags and swipes in the UI. Some might seem to be good solutions on the design phase, but can prove to be annoying or just bad on the final product. Stress tests here are always recommended.
 * [ ] Placeholders
-    * E.g. Check if all the placeholders were implemented according to the design. 
+    * Check if all the placeholders were implemented according to the design. 
 * [ ] Warnings & Error States
-    * E.g. Stress-test all the fields with wrongly inputted data, click out, close the page in the middle of a operation, click buttons and go back and forth on the navigation. Breaking the common flow in various ways is important to test if the implemented error cases are enough to keep the UX in good shape.
+    * Stress-test all the fields with wrongly inputted data, click out, close the page in the middle of a operation, click buttons and go back and forth on the navigation. Breaking the common flow in various ways is important to test if the implemented error cases are enough to keep the UX in good shape.
 * [ ] Feedback
-    * E.g. Check if toast notifications, inline warnings or any other visual signals are appearing after an action is taken. Make sure that the correct feedback is happening whenever anything wrong occurs.
+    * Check if toast notifications, inline warnings or any other visual signals are appearing after an action is taken. Make sure that the correct feedback is happening whenever anything wrong occurs.
 * [ ] Responsiveness
-    * E.g. Repeat all the steps above for each platform the feature is being shipped for. Be mindful about weird line-breaks of error messages on mobile and occlusion of important UI elements by notifications.
+    * Repeat all the steps above for each platform the feature is being shipped for. Be mindful about weird line-breaks of error messages on mobile and occlusion of important UI elements by notifications.
 
 ## Document the outcome
 #### A review can have three different outcomes: it might need a development fix, a design fix, or the task can be done/cleared.
@@ -42,6 +42,7 @@
 *    [ ] Tag or assign the developer who worked on the card. They are the owner of the issue now.
 
 * [ ] If the card needs a design fix
-*    [ ] Add notes explaining what is missing or wasn’t specified in your design process.     * E.g. It can be a use case that wasn’t considered, and so the developer didn't implement, or also a mockup that was misunderstood, lacked a detailed explanation and generated a wrong result.
+*    [ ] Add notes explaining what is missing or wasn’t specified in your design process.
+    * It can be a use case that wasn’t considered, and so the developer didn't implement, or also a mockup that was misunderstood, lacked a detailed explanation and generated a wrong result.
 *    [ ] Signal that the task needs a design fix in you project management platform.  
 *    [ ] Let your manager know about the design debt and prioritize the fix on the next sprint. 
