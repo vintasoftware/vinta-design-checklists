@@ -15,33 +15,25 @@
 
 ## Interaction Type
 #### Check if the current interaction type is the best suitable for the element in case.     * E.g. E.g. Sometimes a hover can be more convenient than a click to open.
-
-
 * [ ] Click/Tap
 * [ ] Secondary Click (only desktop)
 * [ ] Hover (only desktop)
 Convenient for previewing content 
 * [ ] Double Click/Tap
 * [ ] Click/Touch & Hold
-
 * [ ] Drag
 Useful for rearranging content quickly
-
 * [ ] Vertical Scroll 
-
 * [ ] Horizontal Scroll (preferable for mobile)
     * Good for grouping content into horizontal lists and reducing vertical space. The optimal interaction for these lists and caroussels is different on mobile (swipe) and desktop (click). Make sure you have the necessary visual affordances for each one (E.g. arrows on desktop, dots on mobile).
-
 * [ ] Swipe (recommended only for mobile)
 
 ## Placeholders
-
 * [ ] Whenever a section or element that is supposed to be filled with information lacks any data at all, it's important to predict that and create a placeholder case.
     * Beware: Placeholders should not replace labels, only give user further understanding about that field.
 
 ## Error states & Warnings
 #### There are a lot of possible error states & matching warnings for unexpected or prohibited behaviors. Below are the most common ones:
-
 * [ ] Wrong format data
     * E.g. Date fields that can't be in the future, Text that can't contain symbols, etc.
 * [ ] Blank required fields
