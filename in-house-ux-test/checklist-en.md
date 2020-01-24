@@ -4,10 +4,10 @@
 
 ## 1. Test setup
 * [ ] Have your prototype ready. 
-    * E.g. Perform a quick dry-run to see if every hotspot is working as intended, catch any technical glitches, and check if all the interactive elements that the UI needs are enabled.
+    * Perform a quick dry-run to see if every hotspot is working as intended, catch any technical glitches, and check if all the interactive elements that the UI needs are enabled.
 * [ ] Enlist people from different projects to test your UI.
 * [ ] Book a room, and set aside enough time to test the UI with 5 people, one at a time.
-    * E.g. For small features, 10 minutes per participant is enough. 
+    * For small features, 10 minutes per participant is enough. 
 * [ ] Set aside some time to consolidate your insights after the test, about 5 minutes for each participant.
 
 ## 2. Running the test
