@@ -1,5 +1,5 @@
 ## Briefing with client
-#### Ask the following questions during the first sync with your client/product owner. Refer back to them when you’re shaping the feature. Ideas might come up, but try to focus on understanding what value the team is expected to deliver. 
+##### Ask the following questions during the first sync with your client/product owner. Refer back to them when you’re shaping the feature. Ideas might come up, but try to focus on understanding what value the team is expected to deliver. 
 
 * [ ] What does the user need to achieve?
 * [ ] Is there any user data or feedback backing up this feature request?
@@ -12,7 +12,7 @@
     * Only ask this one if you have a straight answer to all the previous questions!
 
 ## Understanding user feedback 
-#### Try to answer the following questions whenever a feature or improvement based on user feedback comes up as a design assignment. User feedback is very important, but it needs to be treated thoughtfully. The answers to these questions will give the team a clearer picture of how well defined the problem is, help prioritize the feature, and guide the next phases (do more research, or move to the design solution).
+##### Try to answer the following questions whenever a feature or improvement based on user feedback comes up as a design assignment. User feedback is very important, but it needs to be treated thoughtfully. The answers to these questions will give the team a clearer picture of how well defined the problem is, help prioritize the feature, and guide the next phases (do more research, or move to the design solution).
 
 * [ ] Are user complaints recurring or anecdotal?
 * [ ] What’s the % of our user base that is having this problem?
