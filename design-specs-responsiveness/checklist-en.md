@@ -16,8 +16,7 @@
 (width is more than 1920px)
 
 * [ ] TVs
-TVs work with 16:9 aspect ratio. Normally when you're dealing with Smart TVs, the minimum width is 1920px, but than can increase dramatically, so check this further before starting a TV project. 
+TVs work with a 16:9 aspect ratio. Normally when you're dealing with Smart TVs, the minimum width is 1920px, but that can increase dramatically, so check this further before starting a TV project. 
 
 * [ ] Wearables
-    * The line of products and wearable displays is changing fast, since it's a new market, so research is very recommended since there is no fixed standard. Pixel density and aspect ratio vary a lot, so check for your specific case when designing for wearables. 
- 
+    * The line of products and wearable displays is changing fast since it's a new market, so research is very recommended since there is no fixed standard. Pixel density and aspect ratio varies a lot, so check for your specific case when designing for wearables. 
