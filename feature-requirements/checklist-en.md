@@ -1,5 +1,5 @@
 ## Checklist Objective
-##### Understanding the scope of a feature during a meeting with Product Owners is a key activity in the product design cycle. Designers need to make sure we understand the stakeholder’s vision for it, and what is the goal we’re striving for.
+Understanding the scope of a feature during a meeting with Product Owners is a key activity in the product design cycle. Designers need to make sure we understand the stakeholder’s vision for it, and what is the goal we’re striving for.
 
 ## Briefing with client
 ##### Ask the following questions during the first sync with your client/product owner. Refer back to them when you’re shaping the feature. Ideas might come up, but try to focus on understanding what value the team is expected to deliver. 
