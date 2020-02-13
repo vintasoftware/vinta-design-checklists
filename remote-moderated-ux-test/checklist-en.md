@@ -15,7 +15,7 @@
 * [ ] Fix glitches and make all necessary adjustments.
 
 ## 3. Source and schedule participants
-This can be a task for the designer or other stakeholders (product owner, CEO, CMO), depending on the organizational structure you’re dealing with. Participants can be current users or part of the product’s target demographic.
+##### This can be a task for the designer or other stakeholders (product owner, CEO, CMO), depending on the organizational structure you’re dealing with. Participants can be current users or part of the product’s target demographic.
 
 * [ ] When sourcing participants, try to stay as close as possible to your real user base.
     * Watch for biases that might skew your test results. I.e., you don’t want to have only people who are young and tech-savvy if your user base is mainly composed of boomers. 
