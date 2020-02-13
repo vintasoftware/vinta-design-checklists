@@ -1,5 +1,3 @@
-#### Remote usability tests can be moderated or unmoderated, depending on what the designer (and the product team as a whole) needs to find out or validate.
-
 ## 1. Build your prototype
 * [ ] Pick one device or viewport to build the prototype for. 
     * Consider the context your users are likely to be in and which device they use more often. User behavior data can help you with this decision.
