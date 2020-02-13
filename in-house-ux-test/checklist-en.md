@@ -1,3 +1,7 @@
+#### This checklist is meant to be used by product designers while setting up and executing an usability test with a prototype, with people around the office. The test should be quick and not involve too much effort on the designer’s part.
+
+#### **DISCLAIMER:** Running in-house usability tests shouldn’t replace structured research (tests, interviews, surveys) with real users. The main goal of this practice is to help designers catch the more critical problems in their interfaces before working on a more elaborate version of the solution, or put some risky design ideas up for validation with your team.
+
 ## 1. Test setup
 * [ ] Have your prototype ready. 
     * Perform a quick dry-run to see if every hotspot is working as intended, catch any technical glitches, and check if all the interactive elements that the UI needs are enabled.
