@@ -1,5 +1,7 @@
 ## Checklist Objective
-##### At [Vinta](https://vintasoftware.com), we have a design review process for pieces of software that are about to be (or that have just been) shipped to production. All tasks that have a design spec associated with it should go through Design QA. The goal is to track inconsistencies or unplanned behaviors and provide managers and developers with a clear path to fix them efficiently. It also helps the team to keep quality metrics (i.e., how many cards are going back to development for fixes after deploy).
+##### At [Vinta](https://vintasoftware.com), we have a design review process for pieces of software that are about to be (or that have just been) shipped to production. All tasks that have a design spec associated with it should go through Design QA. 
+
+The goal is to track inconsistencies or unplanned behaviors and provide managers and developers with a clear path to fix them efficiently. It also helps the team to keep quality metrics (i.e., how many cards are going back to development for fixes after deploy).
 
 ## Before the QA, check if:
 * [ ] The task description (user story) is clear enough for you to start the review. 
