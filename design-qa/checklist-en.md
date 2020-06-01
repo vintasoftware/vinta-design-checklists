@@ -1,4 +1,5 @@
-#### At [Vinta](https://vintasoftware.com), we have a design review process for pieces of software that are about to be (or that have just been) shipped to production. All tasks that have a design spec associated with it should go through Design QA. The goal is to track inconsistencies or unplanned behaviors and provide managers and developers with a clear path to fix them efficiently. It also helps the team to keep quality metrics (i.e., how many cards are going back to development for fixes after deploy).
+## Checklist Objective
+##### At [Vinta](https://vintasoftware.com), we have a design review process for pieces of software that are about to be (or that have just been) shipped to production. All tasks that have a design spec associated with it should go through Design QA. The goal is to track inconsistencies or unplanned behaviors and provide managers and developers with a clear path to fix them efficiently. It also helps the team to keep quality metrics (i.e., how many cards are going back to development for fixes after deploy).
 
 ## Before the QA, check if:
 * [ ] The task description (user story) is clear enough for you to start the review. 
@@ -34,7 +35,7 @@
     * Repeat all the steps above for each platform the feature is being shipped for. Be mindful of weird line-breaks of error messages on mobile and occlusion of essential UI elements by notifications.
 
 ## Document the outcome
-#### A review can have three different outcomes: it might need a development fix, a design fix, or the task can be done/cleared.
+##### A review can have three different outcomes: it might need a development fix, a design fix, or the task can be done/cleared.
 
 * [ ] If the task needs a development fix:
 *    [ ] Add notes in the task for any inconsistencies found. Link the design specs, add screenshots and videos to illustrate the behavior you have encountered. 
