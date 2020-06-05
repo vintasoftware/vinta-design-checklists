@@ -1,6 +1,8 @@
-#### **Who should use this checklist?** Designer and Project Manager should discuss these points before presenting a design solution to the client.
+## Who should use this checklist?
+##### Designer and Project Manager should discuss these points before presenting a design solution to the client.
 
-#### **When to validate technical viability?** It’s best to do it in the early stages of your design solution when all you have is the user journey or a low-fidelity wireframe. Avoid investing time in polishing an interface without having validated it previously, as it might incur in lots of rework. However, if you’re working on features that have visual complexity like animation and micro-interactions, or your solution requires new components, you should also validate it afterward.
+## When to validate technical viability?
+##### It’s best to do it in the early stages of your design solution when all you have is the user journey or a low-fidelity wireframe. Avoid investing time in polishing an interface without having validated it previously, as it might incur in lots of rework. However, if you’re working on features that have visual complexity like animation and micro-interactions, or your solution requires new components, you should also validate it afterward.
 
 ## Before the sync
 * [ ] Make sure to know who is the decision-maker. 
