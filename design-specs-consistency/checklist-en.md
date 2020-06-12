@@ -1,5 +1,5 @@
 ## Color Palette
-#### All these color patterns and behaviors should be predefined by a Styleguide to ensure consistency.
+##### All these color patterns and behaviors should be predefined by a Styleguide to ensure consistency.
 * [ ] Contrast (https://color.a11y.com/ContrastPair/)
     * Make information visible and readable when combining colors. 
 * [ ] Style & Matching Rules
