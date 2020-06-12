@@ -14,7 +14,7 @@
     * If the UI is taking too long to render or is waiting for a slow server action to move forward, a loading state should be considerate to inform the user that the system has not frozen.
 
 ## Interaction Type
-Check if the current interaction type is the best suitable for the element in case.     * E.g. E.g. Sometimes a hover can be more convenient than a click to open.
+##### Check if the current interaction type is the best suitable for the element in case.     * E.g. E.g. Sometimes a hover can be more convenient than a click to open.
 
 * [ ] Click/Tap
 * [ ] Secondary Click (only desktop)
@@ -34,7 +34,7 @@ Useful for rearranging content quickly
     * Beware: Placeholders should not replace labels, only give users further understanding about that field.
 
 ## Error states & Warnings
-There are a lot of possible error states & matching warnings for unexpected or prohibited behaviors. Below are the most common ones:
+##### There are a lot of possible error states & matching warnings for unexpected or prohibited behaviors. Below are the most common ones:
 
 * [ ] Wrong format data
     * E.g., Date fields that can't be in the future, Text that can't contain symbols, etc.
