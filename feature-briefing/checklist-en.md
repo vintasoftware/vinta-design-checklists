@@ -1,5 +1,5 @@
 ## 1. Does the feature need a design cycle?
-#### If any of the following is true, the feature needs to go through a design cycle. If more than one affirmation is true, it might give you a hint about the feature’s complexity. 
+##### If any of the following is true, the feature needs to go through a design cycle. If more than one affirmation is true, it might give you a hint about the feature’s complexity. 
 * [ ] It will enable users to perform new actions.
 * [ ] It will change the way users act currently.
 * [ ] It requires a change in user flow,  due to user feedback or business needs. 
@@ -9,7 +9,7 @@
 * [ ] It involves the creation of new UI components or adjustments to an existing component.
 
 ## 2. If so, what is the level of complexity?
-#### While reviewing the feature, Product Manager should ask for design input, to better define and estimate effort, based on its complexity.
+##### While reviewing the feature, Product Manager should ask for design input, to better define and estimate effort, based on its complexity.
 
 * [ ] It’s a new feature epic if: 
 *    [ ] It adds an entirely new set of functionalities to the product.
