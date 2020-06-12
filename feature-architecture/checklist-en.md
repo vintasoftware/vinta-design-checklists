@@ -1,4 +1,4 @@
-#### The design process for new features within a product involves defining its architecture, how it should function, and what is the user journey through the product. This step comes before proposing a graphic user interface. It is essential and should not be overlooked. 
+## The design process for new features within a product involves defining its architecture, how it should function, and what is the user journey through the product. This step comes before proposing a graphic user interface. It is essential and should not be overlooked. 
 
 ## 1. Outlining the journey
 ##### While describing your user’s journey, answer the following questions. If any of these aspects are not clear, enlist the help of a developer who has a deep understanding of the product (it can be the project manager or the tech lead) to build the journey together with you. You can use pen and paper, or design the journey in a flowchart app like Whimsical (web) or Xmind (desktop).
