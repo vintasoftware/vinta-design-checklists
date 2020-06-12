@@ -1,3 +1,4 @@
+## Viewports and Breaking Points
 ##### Here is a list of viewports and breaking points for most common platforms to check your design specs for responsiveness. Remember to check all the important ones your software should be working on and if they're not here, add them to the list ;)
 
 * [ ] Mobile phones 
