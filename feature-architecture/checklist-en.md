@@ -26,4 +26,4 @@
     * If so, map them out as individual flows, and plan a delivery strategy that takes into account development effort and value to the user.
 * [ ] What is the estimated effort involved (for both design and engineering) for each delivery?
 
-Based on these considerations, the product owner can make informed decisions on whether to keep developing the feature and how to prioritize it on the product roadmap.
+##### Based on these considerations, the product owner can make informed decisions on whether to keep developing the feature and how to prioritize it on the product roadmap.
